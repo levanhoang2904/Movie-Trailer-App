@@ -1,0 +1,3 @@
+class MovieGenre {
+  int? id;
+}

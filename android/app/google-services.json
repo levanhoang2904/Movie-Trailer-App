@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157609132575",
+    "project_id": "movie-trailer-af228",
+    "storage_bucket": "movie-trailer-af228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157609132575:android:963f5a0dafadddc40b4b2a",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157609132575-hch5nnerp9bfbpoqe4g4bdhi9lc6buvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbWHKcoODWEL07jZNeoHMPEexvDIGUgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157609132575-hch5nnerp9bfbpoqe4g4bdhi9lc6buvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
